@@ -69,3 +69,5 @@ I was thinking of expanding this tool by implementing the following:
 ## Declaration
 
 The script `aes.py` implements standard AES operations with the SubBytes step omitted. Some of the code is taken from [this](https://github.com/bozhu/AES-Python) repository. This tool is developed for educational purposes and the rights to the reused code snippets belong to their respective author.
+
+Last but not least, I want to thank macz for the inspiration behind this repository and all the educational discussions we have had! :)
